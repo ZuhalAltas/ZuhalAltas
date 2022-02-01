@@ -1,4 +1,4 @@
-***I'm a Computer Engineering Student 💻***
+***I'm a Student 💻***
 
 ***🌎 Welcome To My Code World 🌎*** <br>
 I am a student mostly experienced in C,C++,C# and Java. Also I know HTML and CSS.I care about writing new code.I love learning new things.
