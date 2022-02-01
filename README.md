@@ -1,6 +1,6 @@
  ## Hello everyone, I am Zuhal💻
 
-***About Me✨<br>***
+***About Me<br>***
 💬 Hello! I am a computer engineering student at RTE University. I am a student experienced in C,C++,C# and JAVA. Also I know HTML and CSS.I care about writing new code. I love learning new things.
 
 ***Contact Me📫*** <br>
