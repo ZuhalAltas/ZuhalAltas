@@ -1,7 +1,7 @@
  ## Hello everyone, I am Zuhal✋
 
 ***About Me💻<br>***
-💬 ***I am a computer engineering student at RTE University. I am a student experienced in python Also I know HTML,CSS,Bootstrap and Javascript. I care about writing new code. I love learning new things.***
+💬 ***I am a computer engineering student at RTE University. I am a student experienced in Python Also I know HTML,CSS,Bootstrap and Javascript. I care about writing new code. I love learning new things.***
 
 ***Contact Me📫*** <br>
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
