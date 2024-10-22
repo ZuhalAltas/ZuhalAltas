@@ -1,6 +1,5 @@
  ## Hello everyone, I am Zuhal✋
 
-***About Me💻<br>***
 💬 ***I am a computer engineering student at RTE University.***
 
 ***Contact Me📫*** <br>
